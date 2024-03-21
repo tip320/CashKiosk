@@ -1,0 +1,14 @@
+C:\Users\MCA\source\repos\CashKiosk\obj\Debug\net8.0\CashKiosk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MCA\source\repos\CashKiosk\obj\Debug\net8.0\CashKiosk.AssemblyInfoInputs.cache
+C:\Users\MCA\source\repos\CashKiosk\obj\Debug\net8.0\CashKiosk.AssemblyInfo.cs
+C:\Users\MCA\source\repos\CashKiosk\obj\Debug\net8.0\CashKiosk.csproj.CoreCompileInputs.cache
+C:\Users\MCA\source\repos\CashKiosk\bin\Debug\net8.0\CashKiosk.exe
+C:\Users\MCA\source\repos\CashKiosk\bin\Debug\net8.0\CashKiosk.deps.json
+C:\Users\MCA\source\repos\CashKiosk\bin\Debug\net8.0\CashKiosk.runtimeconfig.json
+C:\Users\MCA\source\repos\CashKiosk\bin\Debug\net8.0\CashKiosk.dll
+C:\Users\MCA\source\repos\CashKiosk\bin\Debug\net8.0\CashKiosk.pdb
+C:\Users\MCA\source\repos\CashKiosk\obj\Debug\net8.0\CashKiosk.dll
+C:\Users\MCA\source\repos\CashKiosk\obj\Debug\net8.0\refint\CashKiosk.dll
+C:\Users\MCA\source\repos\CashKiosk\obj\Debug\net8.0\CashKiosk.pdb
+C:\Users\MCA\source\repos\CashKiosk\obj\Debug\net8.0\CashKiosk.genruntimeconfig.cache
+C:\Users\MCA\source\repos\CashKiosk\obj\Debug\net8.0\ref\CashKiosk.dll
